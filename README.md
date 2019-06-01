@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hello
+i use now this application
+Make and commit changes
